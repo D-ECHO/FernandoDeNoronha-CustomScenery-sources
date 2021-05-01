@@ -1,0 +1,13 @@
+data/SRTM-1/*
+data/shapefiles/osm_*
+data/shapefiles/*.osm
+data/shapefiles/fdn_*
+groundnet/aptdat2sqlite.py
+groundnet/sqlite2xml.py
+groundnet/Airports
+groundnet/apt.dat
+groundnet/groundnets.db
+groundnet/legacy-groundnets-icao.lst
+output/
+work/
+.directory
